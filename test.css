@@ -35,3 +35,8 @@ text-align:center;
   border-top:#6fbb9a 1px dotted;
   text-align:center;
 }
+body{
+  background-color: #fbf9cc;
+  background-image: url("DSC_0070.JPG");
+  background-repeat: repeat-x;
+}
